@@ -1,3 +1,3 @@
-A fork that removes the pane navigation keybindings.
+## A fork that removes the pane navigation keybindings.
 
-Already uses christoomey/vim-tmux-navigator
+I already use christoomey/vim-tmux-navigator plugin for that.
